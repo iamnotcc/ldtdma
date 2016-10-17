@@ -1,0 +1,4 @@
+#!/bin/sh
+cd `dirname $0`
+../src/ldtdma -n .:../src $*
+# for shared lib, use: opp_run -l ../src/ldtdma -n .:../src $*

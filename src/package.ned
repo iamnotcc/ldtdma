@@ -1,0 +1,3 @@
+package ldtdma;
+
+@license(LGPL);
